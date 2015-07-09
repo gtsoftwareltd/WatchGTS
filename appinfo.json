@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "GTSoftwareLtd",
+    "longName": "WatchGTS",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/GT Software Logo144.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "WatchGTS",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "54a27270-cb9e-4d6e-be31-f9190c799c32",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
